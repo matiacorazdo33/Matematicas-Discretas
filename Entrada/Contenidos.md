@@ -30,7 +30,7 @@
   👉 [Ver documento](https://drive.google.com/file/d/1Pg4gDFsgqCSuD_8ZDPGWIqifrSc5O49v/view?usp=sharing)
 
 - 🗃️ **AA2:** Portafolio de Matemáticas Discretas  
-  👉 [Ver documento](https://github.com/matiacorazdo33/Matematicas-Discretas/blob/68bf3ed2a765149c3098950d014257eafd59b08d/Entrada/Contenidos.md)
+  👉 [Ver documento](https://github.com/matiacorazdo33/Matematicas-Discretas/blob/1aa159b2d7987884fa4e6e8cc2c1e6781920af0e/Entrada/Caratula.md)
 
 ---
 
