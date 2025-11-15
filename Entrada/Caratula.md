@@ -13,7 +13,7 @@
   💻 <strong>Asignatura:</strong> Matemáticas Discretas<br>
   🗓️ <strong>Ciclo:</strong> Ciclo I<br>
   📆 <strong>Período Académico:</strong> Septiembre 2025 - Febrero 2026<br>
-  👩‍🏫 <strong>Docente:</strong> Ing. Mario Cueva Hurtado<br>
+  👨‍🏫 <strong>Docente:</strong> Ing. Mario Cueva Hurtado<br>
   🧑‍🎓 <strong>Estudiante:</strong> Matías Labanda
 </p>
 
