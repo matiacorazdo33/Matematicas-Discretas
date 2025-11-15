@@ -1,26 +1,37 @@
 # 💻 Matemáticas Discretas
 ---
 
-## 📚 Portafolio Digital de Aprendizaje
+## 📘 Portafolio Digital de Aprendizaje
 ---
 
-## ✨ [Carátula](../Entrada/Caratula.md)
+## 🗂️ [Carátula](../Entrada/Caratula.md)
 
-### 🧠 Unidad1: Lógica
+---
 
-### 📚 Trabajos Aprendizaje en Contacto con el docente:
+# 🧠 Unidad 1: Lógica
 
-- [ACD1: Lógica Propocisional, Conectores y Tablas de Verdad.](https://drive.google.com/file/d/1MwIKQRllvjW4UpqAs2OECMxjwX8D1cCb/view?usp=sharing)
-- [ACD2: Implicaciones, Equivalencias y Razonamiento Deductivo (Leyes Proposicionales y Reglas de Inferencia)](https://drive.google.com/file/d/129h8e-7p-BO1pO-wVtAazdmwJYzm0ERx/view?usp=sharing)
+## 👨‍🏫 Trabajos de Aprendizaje en Contacto con el Docente  
+- 🔢 **ACD1:** Lógica proposicional, conectores y tablas de verdad  
+  👉 [Ver documento](https://drive.google.com/file/d/1MwIKQRllvjW4UpqAs2OECMxjwX8D1cCb/view?usp=sharing)
 
+- 🔗 **ACD2:** Implicaciones, equivalencias y razonamiento deductivo  
+  👉 [Ver documento](https://drive.google.com/file/d/129h8e-7p-BO1pO-wVtAazdmwJYzm0ERx/view?usp=sharing)
 
-### 📚 Trabajos Aprendizaje Práctico Experimental:
+---
 
-- [APE: Resolución de Ejercisios](https://drive.google.com/file/d/1BVMCih-vZVYtjG2dJjPfeldJzqmH6JXq/view?usp=sharing)
+## 🧪 Trabajos de Aprendizaje Práctico Experimental  
+- 🧩 **APE:** Resolución de ejercicios  
+  👉 [Ver documento](https://drive.google.com/file/d/1BVMCih-vZVYtjG2dJjPfeldJzqmH6JXq/view?usp=sharing)
 
+---
 
-### 📚 Trabajos AA:
+## 🎓 Trabajos de Aprendizaje Autónomo  
+- 📖 **AA1:** Lectura y ejercicios  
+  👉 [Ver documento](https://drive.google.com/file/d/1Pg4gDFsgqCSuD_8ZDPGWIqifrSc5O49v/view?usp=sharing)
 
-- [AA1: Lectura Y Ejercisios](https://drive.google.com/file/d/1Pg4gDFsgqCSuD_8ZDPGWIqifrSc5O49v/view?usp=sharing)
-- [AA2: Portafolio de Matemáticas Discretas]()
+- 🗃️ **AA2:** Portafolio de Matemáticas Discretas  
+  👉 *(Agrega el enlace cuando esté disponible)*
+
+---
+
 
