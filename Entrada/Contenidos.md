@@ -12,7 +12,8 @@
 
 ## 👨‍🏫 Trabajos de Aprendizaje en Contacto con el Docente  
 - 🔢 **ACD1:** Lógica proposicional, conectores y tablas de verdad  
-  👉 [Ver documento](https://drive.google.com/file/d/1MwIKQRllvjW4UpqAs2OECMxjwX8D1cCb/view?usp=sharing)
+  👉 [Ver documento](https://drive.google.com/file/d/1BVMCih-vZVYtjG2dJjPfeldJzqmH6JXq/view?usp=sharing)
+
 
 - 🔗 **ACD2:** Implicaciones, equivalencias y razonamiento deductivo  
   👉 [Ver documento](https://drive.google.com/file/d/129h8e-7p-BO1pO-wVtAazdmwJYzm0ERx/view?usp=sharing)
@@ -21,7 +22,7 @@
 
 ## 🧪 Trabajos de Aprendizaje Práctico Experimental  
 - 🧩 **APE:** Resolución de ejercicios  
-  👉 [Ver documento](https://drive.google.com/file/d/1BVMCih-vZVYtjG2dJjPfeldJzqmH6JXq/view?usp=sharing)
+  👉 [Ver documento](https://drive.google.com/file/d/1MwIKQRllvjW4UpqAs2OECMxjwX8D1cCb/view?usp=sharing)
 
 ---
 
